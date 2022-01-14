@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="joy.world.fc.finalproject.api.formatTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-14T04:18:05" hostname="DESKTOP-KCA2MSQ" time="0.021">
+  <properties/>
+  <testcase name="test()" classname="joy.world.fc.finalproject.api.formatTest" time="0.021"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

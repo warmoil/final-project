@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="joy.world.fc.finalproject.core.EventTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-13T07:45:00" hostname="DESKTOP-KCA2MSQ" time="0.001">
+  <properties/>
+  <testcase name="오버랩 테스트" classname="joy.world.fc.finalproject.core.EventTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

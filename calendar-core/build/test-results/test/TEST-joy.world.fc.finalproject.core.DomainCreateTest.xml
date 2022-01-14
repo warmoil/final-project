@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="joy.world.fc.finalproject.core.DomainCreateTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-13T07:45:00" hostname="DESKTOP-KCA2MSQ" time="0.025">
+  <properties/>
+  <testcase name="eventTest()" classname="joy.world.fc.finalproject.core.DomainCreateTest" time="0.025"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
